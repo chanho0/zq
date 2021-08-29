@@ -2,11 +2,11 @@
 	"name": "中青",
 	"description": "中青自用",
 	"task": [
-		"10 */1 * * * https://raw.githubusercontent.com/chanho0/zq/main/youth.js, tag=中青看点签到&开转盘宝箱&阅读时长, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=false",
-		"10 */2 * * * https://raw.githubusercontent.com/chanho0/zq/main/Youth_Read.js, tag=中青看点自动阅读, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=false",
-		"30 6 * * * https://raw.githubusercontent.com/chanho0/zq/main/youth_banner.js, tag=中青看点看看赚&浏览赚(需配合专用重写获取cookie), img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=false",
-		"20 11 8 * * * https://raw.githubusercontent.com/chanho0/zq/main/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=false",
-		"20 15 */2 * * * https://raw.githubusercontent.com/chanho0/zq/main/Youth_Read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=false",
-		"20 5 10 * * * https://raw.githubusercontent.com/chanho0/zq/main/youth_gain.js, tag=中青浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=false"
+		"10 */1 * * * https://raw.githubusercontent.com/chanho0/zq/main/youth.js, tag=中青看点签到&开转盘宝箱&阅读时长, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
+		"10 */2 * * * https://raw.githubusercontent.com/chanho0/zq/main/Youth_Read.js, tag=中青看点自动阅读, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
+		"30 6 * * * https://raw.githubusercontent.com/chanho0/zq/main/youth_banner.js, tag=中青看点看看赚&浏览赚(需配合专用重写获取cookie), img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
+		"20 11 8 * * * https://raw.githubusercontent.com/chanho0/zq/main/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
+		"20 15 */2 * * * https://raw.githubusercontent.com/chanho0/zq/main/Youth_Read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
+		"20 5 10 * * * https://raw.githubusercontent.com/chanho0/zq/main/youth_gain.js, tag=中青浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true"
 	]
 }
