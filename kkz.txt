@@ -1,4 +1,0 @@
-【MITM】
-hostname = kandian.wkandian.com
-
-https://kandian.wkandian.com/v5/nameless/adlickstart.json 重写目标 https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqkkz.js
